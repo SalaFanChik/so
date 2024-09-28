@@ -1,0 +1,585 @@
+{"https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/dvigatel_i_elementy_dvigatelya/dvigatel-d-2459e2.html": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/dvigatel_i_elementy_dvigatelya/dvigatel-d-2459e2.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/dvigatel_i_elementy_dvigatelya/dvigatel-74051-320-evro-2.html", "name": "Товарищество с ограниченной ответственностью \"Северный регион 2030\"", "price": 14997990}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/hlebopekarnoe_i_konditerskoe_oborudovanie/testomesy/Testomes-Mecnosud-TC18AD-V-400-50-3-belyj.html", "name": "ИП Аужанова", "price": 907859}
+{"https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Vyazma-VO-30.html": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Vyazma-VO-30.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Vyazma-VO-25.html": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Vyazma-VO-25.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Vyazma--Lotos--L-60--belaya.html", "name": "ИП \"БЕКЖИГИТ\"", "price": 6665827}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Vyazma--Vega--V-35P.html", "name": "ИП \"БЕКЖИГИТ\"", "price": 9455130}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/Konvekcionnye-pechi/Pech-konvekcionnaya-UNOX-XB-893.html", "name": "ИП Аужанова", "price": 2979897}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/251644150822_1898.html", "name": "Товарищество с ограниченной ответственностью \"Промышленный Дизайн\"", "price": 3119000}
+{"https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Vyazma-V-15--belaya.html": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Vyazma-V-15--belaya.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/otopitelnye_kotly/KM100647022_1898.html", "name": "ИП Аужанова", "price": 1918792}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_osnastka_dlya_instrumenta/saw-blades/KM107502858.html", "name": "Абдумалик", "price": 41857}
+{"url": "https://omarket.kz/catalog/ecc_ohrana_i_bezopasnost/ecc_protivopozharnoe_oborudovanie_i_bezopasnost/priemno_kontrolnye_pribory/kontroller-dvuhprovodnoy-linii-svyazi-bolid-s2000-kdl-2i-s-galvanicheskoy-razvyazkoy.html", "name": "Туран", "price": 74697}
+{"url": "https://omarket.kz/catalog/ecc_professionalnoe_oborudovanie/reklamnoe_oborudovanie/led_ekrany/LED-ekran-Shenzhen-BestarLed-Technology-R5-SMD2121-Indoor--256x512-sm.html", "name": "ИП Манакова", "price": 2788793}
+{"url": "https://omarket.kz/catalog/ecc_krasota_i_zdorovie/ecc_massazhiori/massage-chairs/massazhnoe-kreslo-casada-alphasonic-3-krem-belyy.html", "name": "ИП Алтынбек", "price": 4249969}
+{"url": "https://omarket.kz/catalog/ecc_professionalnoe_oborudovanie/reklamnoe_oborudovanie/led_ekrany/003_10837064.html", "name": "ИП Манакова", "price": 3189781}
+{"url": "https://omarket.kz/catalog/ecc_professionalnoe_oborudovanie/reklamnoe_oborudovanie/led_ekrany/Displej-professionalnyj-Samsung-QB75B-E--75-.html", "name": "ИП Манакова", "price": 6999897}
+{"url": "https://omarket.kz/catalog/ecc_professionalnoe_oborudovanie/reklamnoe_oborudovanie/led_ekrany/001_10837064.html", "name": "ИП Булекбаева", "price": 390000}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_televizory/televizory_nedorogie/KM1760314.html", "name": "Товарищество с ограниченной ответственностью \"Soft Satu\"", "price": 2622391}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/utyugi_i_gladilnye_sistemy/KM3801154_1898.html", "name": "Товарищество с ограниченной ответственностью \"Компьютекс Голд\"", "price": 184809}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6902895_1898.html", "name": "ИП Ademi", "price": 149993}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/ecc_holodilnoe_oborudovanie/Holodilnye-wkafy/Wkaf-holodilnyj-Polair-CM114-S-belyj.html", "name": "ИП \"БЕКЖИГИТ\"", "price": 679992}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6901535_1898.html", "name": "ИП Ademi", "price": 77659}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_mototekhnica_i_ekipirovka/motocycles/Motocikl-Yaqi-QY200--krasnyj.html", "name": "AzizGroup", "price": 718993}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/utyugi_i_gladilnye_sistemy/KM100116004_1898.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 169733}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6902870_1898.html", "name": "ИП Ademi", "price": 27993}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6901531_1898.html", "name": "ИП Ademi", "price": 69981}
+{"url": "https://omarket.kz/catalog/ecc_professionalnoe_oborudovanie/reklamnoe_oborudovanie/led_ekrany/Led-ekran-LedTAO-Optoelectronic-Co---Ltd-P4-Indoor--409-6h307-2-sm.html", "name": "Товарищество с ограниченной ответственностью \"Компания RekART\"", "price": 6985000}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_mototekhnica_i_ekipirovka/motocycles/Motocikl-Yaqi-QY200--chernyj.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 618000}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/transmissiya_i_khodovaya_chast/UAZ3962940920145077_14026.html", "name": "West stroy", "price": 323600}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/100364851_1898.html", "name": "ИП Ademi", "price": 87979}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_elektropitanie/invertory/YM564723050_1898.html", "name": "ИП KAZAKH.ECODECOR", "price": 263853}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_mototekhnica_i_ekipirovka/motocycles/Motocikl-Kayo-T2-172-Road-250ST.html", "name": "ИП KAZAKH.ECODECOR", "price": 1321280}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/100364559_1898.html", "name": "ИП Ademi", "price": 86975}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_mototekhnica_i_ekipirovka/Snegohody/snegohod-stels-s600.html", "name": "ИП Кулиева", "price": 6478988}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_mototekhnica_i_ekipirovka/motocycles/Motocikl-Kayo-T2-Enduro-Racing-250-169.html", "name": "ИП Колдау", "price": 1480000}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/100364538_1898.html", "name": "ИП Ademi", "price": 55642}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_mototekhnica_i_ekipirovka/Snegohody/snegohod-stels-v800.html", "name": "ИП Утеева", "price": 5948993}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6901525_1898.html", "name": "ИП Ademi", "price": 64992}
+{"https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/nasos-dab-k-14400-t.html": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/nasos-dab-k-14400-t.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_komplektuyushie/sound-card/AS005294_1898.html", "name": "ИП Джаманбаева", "price": 124968}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/10036482_1898.html", "name": "ИП Ademi", "price": 159594}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/printery/38811_1898.html", "name": "ИП Алибек МН", "price": 435799}
+{"https://omarket.kz/catalog/ecc_uchebnoe_oborudovanie/Uchebnoe-interaktivnoe-oborudovanie/Interaktivnye-pesochnicy/interaktivnaya-pesochnitsa-isandbox-mini.html": "https://omarket.kz/catalog/ecc_uchebnoe_oborudovanie/Uchebnoe-interaktivnoe-oborudovanie/Interaktivnye-pesochnicy/interaktivnaya-pesochnitsa-isandbox-mini.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_komplektuyushie/sound-card/AS005295_1898.html", "name": "ИП Джаманбаева", "price": 149891}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/printery/Aa1234567890_3242.html", "name": "Товарищество с ограниченной ответственностью \"ENZI\"", "price": 73099}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/100364136_1898.html", "name": "ИП Ademi", "price": 149894}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/mfu/MFU-Canon--i-Sensys-MF752Cdw-1-kartridzh.html", "name": "Товарищество с ограниченной ответственностью \"SERVICE PRINT\"", "price": 205702}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6902650_1898.html", "name": "ИП Ademi", "price": 84973}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/printery/KM1739068.html", "name": "ДАРИҒА", "price": 50000}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6901347_1898.html", "name": "ИП \"Вектор 19\"", "price": 40401}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/printery/Printer-Canon-i-Sensys-LBP162dw-2438C001-chernyj---toner-kartridzh-Canon-051.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 164995}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/printery/YM5062706_1898.html", "name": "Абдумалик", "price": 599060}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/printery_chekov_i_etiketok/YHD8003DD_10794560.html", "name": "ИП Джаманбаева", "price": 30978}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_lakokrasochniye_materialy/enamel/4870200455636_10823109.html", "name": "ASSEL", "price": 19996}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Oborudovanie-dlya-pererabotki-ovoshhej-i-fruktov/Ovoshherezki/Mawina-ovoshherezatelno-protirochnaya-Beltorgmaw-MPR-350M.html", "name": "Абдумалик", "price": 459998}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/plity-promyshlennye/Plita-elektricheskaya-Pishhevye-Tehnologii-PEP-0-72-DW-01--6-ti-konforochnaya.html", "name": "L Service", "price": 764439}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/printery_chekov_i_etiketok/ZQ51AUE000E00_176995.html", "name": "ИП Джаманбаева", "price": 198538}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_komplektuyushie/sound-card/vnesniaia-zvukovaia-karta-audient-id24-studiinaia.html", "name": "Товарищество с ограниченной ответственностью \"Avercom Group\"", "price": 151129}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/100123525_1898.html", "name": "ИП Ademi", "price": 139998}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_kresla_i_stulya/kitchen-chairs/МПТВ04546500150_1898.html", "name": "ИП Көмек", "price": 11975}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_stoly/desks/stol0058_1898.html", "name": "ИП КӘУСАР", "price": 69000}
+{"url": "https://omarket.kz/catalog/ecc_hoz_tovary/ecc_bytovaya_himiya/moyushchie_sredstva_dlya_posudy/3402209000.html", "name": "Абдумалик", "price": 230}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/amortizatory/U4127_3351306.html", "name": "ИП TARAS", "price": 65100}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/plity-promyshlennye/Plita-elektricheskaya-Prommaw-PE-0-54S.html", "name": "ИП 8-ой Миллионер", "price": 599942}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/100553295_1898.html", "name": "ИП Ademi", "price": 319999}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6901938_1898.html", "name": "ИП Ademi", "price": 239894}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/Pricepy-i-polupricepy/Pricepy-dlya-legkovyh-avtomobilej/pritsep-dlya-lodok-i-katerov-mzsa-81771e101.html", "name": "ИП Кулиева", "price": 824998}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/plity-promyshlennye/Plita-Promaw-PE-0-36W-elektricheskaya-4-h-konforochnaya.html", "name": "ИП 8-ой Миллионер", "price": 517413}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_kresla_i_stulya/kitchen-chairs/МПТВ94485801652_1898.html", "name": "Абдумалик", "price": 9925}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_kresla_i_stulya/kitchen-chairs/МПТВ04494900146_1898.html", "name": "Абдумалик", "price": 11515}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/Pricepy-i-polupricepy/Pricepy-dlya-legkovyh-avtomobilej/lodochnyy-1-osnyy-pritsep-sst-7132-15-ooo-td-saranskspetstehnika.html", "name": "ИП Кулиева", "price": 999961}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_stoly/desks/stol0060_1898.html", "name": "ИП КӘУСАР", "price": 33390}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/plity-promyshlennye/Plita-elektricheskaya-Prommaw-PE-0-54W-6-komforochnaya.html", "name": "ИП 8-ой Миллионер", "price": 658933}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/100415532_1898.html", "name": "ИП Ademi", "price": 149984}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/plity-promyshlennye/Plita-elektricheskaya-Pishhevye-Tehnologii-PEP-0-48-DW-01.html", "name": "L Service", "price": 575472}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_stoly/desks/stol0037_1898.html", "name": "Абдумалик", "price": 42686}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/plity-promyshlennye/Plita-elektricheskaya-Prommaw-PE-0-51S.html", "name": "ИП Аужанова", "price": 551493}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_kresla_i_stulya/kitchen-chairs/4КУЛ016182_1898.html", "name": "Абдумалик", "price": 3696}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_kresla_i_stulya/kitchen-chairs/8МПТВ946120014_1898.html", "name": "Абдумалик", "price": 5985}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_komplektuyushie/zhestkie_diski/zhestkdisk92_1898.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 17857}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_komplektuyushie/zhestkie_diski/KM100567901_0.html", "name": "ИП Джаманбаева", "price": 5014}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/nakopiteli/YM1817521642_1898.html", "name": "Абдумалик", "price": 155996}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_stoly/coffee-tables/KM100589591_1898.html", "name": "Абдумалик", "price": 73989}
+{"url": "https://omarket.kz/catalog/ecc_professionalnoe_oborudovanie/svetovoe_i_scenicheskoe_oborudovanie/Pulty-upravleniya-svetom/Konsol-upravleniya-svetovymi-priborami-ChamSys-QuickQ-20.html", "name": "Товарищество с ограниченной ответственностью \"БАЙБАЛА ДАМУ\"", "price": 3390000}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/nakopiteli/YM667036006_1898.html", "name": "Абдумалик", "price": 195995}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Tolon-TWE-40.html", "name": "Товарищество с ограниченной ответственностью \"Pallada Trade\"", "price": 14500000}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6902631_1898.html", "name": "ИП Ademi", "price": 319998}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6900073_1898.html", "name": "ИП Ademi", "price": 309998}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/plity-promyshlennye/Plita-elektricheskaya-Abat-EPK-48ZHW-K-2-1.html", "name": "ИП Ниязбаев", "price": 874775}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Big-Cloud-Machinery-Manufacturing-Co---Ltd-XGQ-15F.html", "name": "Абдумалик", "price": 1749993}
+{"https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Tolon-TWE-18.html": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Tolon-TWE-18.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Big-Cloud-Machinery-Manufacturing-Co---XGQ-25F.html", "name": "Товарищество с ограниченной ответственностью \"Промышленный Дизайн\"", "price": 2709900}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/plity-promyshlennye/Plita-elektricheskaya-Abat-EP-6P.html", "name": "ИП Ниязбаев", "price": 497598}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/Pishhevarochnye-kotly/kotel-pishhevarocnyi-abat-kpem-60-o.html", "name": "ИП Аужанова", "price": 4799991}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya--Barernogo--tipa-Vyazma-LB-40.html", "name": "ИП \"БЕКЖИГИТ\"", "price": 16091947}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/plity-promyshlennye/Plita-elektricheskaya-Abat-EP-6ZHW-E.html", "name": "Товарищество с ограниченной ответственностью \"Промышленный Дизайн\"", "price": 679990}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Big-Cloud-Machinery-Manufacturing-Co---Ltd-XGQ-50F.html", "name": "ИП Хаусбекова", "price": 7099995}
+{"https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Vyazma--Vega--V-35--belaya.html": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Vyazma--Vega--V-35--belaya.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoaksessuary/detskie_avtokresla/6902552_1898.html", "name": "ИП Ademi", "price": 888879}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Big-Cloud-Machinery-Manufacturing-Co---Ltd-XGQ-20F.html", "name": "Абдумалик", "price": 599982}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Kromluks-KOCYS-E-40--443-l.html", "name": "Абдумалик", "price": 5998778}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/teplovoe_oborudovanie/plity-promyshlennye/Plita-elektricheskaya-Abat-EP-4ZHW-E.html", "name": "ИП Аужанова", "price": 597993}
+{"https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Tolon-TWE-24.html": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Tolon-TWE-24.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Kromluks-KOCYS-E-30--372-l.html", "name": "Абдумалик", "price": 8497988}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Suwilnye-mawina-Haier-HCD12C.html", "name": "Абдумалик", "price": 39895}
+{"url": "https://omarket.kz/catalog/Energeticheskoe-oborudovanie/Transformatory/Silovye-transformatory/transformator-tmg-63-kva.html", "name": "ИП КЕРЕЙХАН", "price": 1067889}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Mawina-suwilnaya-Kromluks-KCKM-E-30.html", "name": "Абдумалик", "price": 3524972}
+{"url": "https://omarket.kz/catalog/Energeticheskoe-oborudovanie/Transformatory/Silovye-transformatory/transformator-tmg-400-kva.html", "name": "Абдумалик", "price": 236792}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Promywlennaya-suwilnaya-mawina-Big-Cloud-Machinery-Manufacturing-Co---Ltd-HG-25.html", "name": "Товарищество с ограниченной ответственностью \"Промышленный Дизайн\"", "price": 1909000}
+{"url": "https://omarket.kz/catalog/Energeticheskoe-oborudovanie/Transformatory/Silovye-transformatory/transformator-tmg-160-kva.html", "name": "Абдумалик", "price": 1561886}
+{"url": "https://omarket.kz/catalog/Energeticheskoe-oborudovanie/Transformatory/Silovye-transformatory/transformator-tmg-630-1004-alageum-electric.html", "name": "Абдумалик", "price": 141095}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Suwilnaya-mawina-Big-Cloud-Machinery-Manufacturing-Co---Ltd-HG-15.html", "name": "Товарищество с ограниченной ответственностью \"Промышленный Дизайн\"", "price": 2889890}
+{"url": "https://omarket.kz/catalog/Energeticheskoe-oborudovanie/Transformatory/Silovye-transformatory/transformator-tmg-100-kva.html", "name": "Абдумалик", "price": 129984}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Suwilnaya-mawina-Speed-Queen-SU055F.html", "name": "Абдумалик", "price": 983986}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Mawina-suwilnaya-Kromluks-KCKM-E-20.html", "name": "Абдумалик", "price": 2890986}
+{"url": "https://omarket.kz/catalog/Energeticheskoe-oborudovanie/Transformatory/Silovye-transformatory/transformator-tmg-25-kva-10kv04kv.html", "name": "Абдумалик", "price": 137782}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Mawina-suwilnaya-Kromluks-KCKM-E-40.html", "name": "Абдумалик", "price": 3939792}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Mawina-suwilnaya-Kromluks-KCKM-E-50.html", "name": "Абдумалик", "price": 4099996}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/dvigatel_i_elementy_dvigatelya/dvigatel-74030-260.html", "name": "Товарищество с ограниченной ответственностью \"Северный регион 2030\"", "price": 12877897}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/servernoe_oborudovanie/servery/Setevoe-hranilishhe-Lenovo-ThinkSystem-SR650-7X06A0K9EA.html", "name": "ASSEL", "price": 1699991}
+{"url": "https://omarket.kz/catalog/ecc_telefony_i_gadgety/ecc_telefoni_i_gadjeti/smartphones/KM100656839_1898.html", "name": "Товарищество с ограниченной ответственностью \"Soft Satu\"", "price": 248636}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/dvigatel_i_elementy_dvigatelya/dvigatel-kamaz.html", "name": "Товарищество с ограниченной ответственностью \"Северный регион 2030\"", "price": 11899995}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/Zapasnye-chasti-dlya-stiralnyh-i-suwilnyh-mawin/Invertor-Alliance-Laundry-Parts-AL-807175P.html", "name": "Абдумалик", "price": 885994}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/Zapasnye-chasti-dlya-stiralnyh-i-suwilnyh-mawin/Kontroller-upravleniya-Avtorskie-tehnologii-MSU-500.html", "name": "Абдумалик", "price": 443795}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/dvigatel_i_elementy_dvigatelya/dvigatel-kamaz-74010-210-boLg.html", "name": "Товарищество с ограниченной ответственностью \"Северный регион 2030\"", "price": 6497998}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_oborudovanie/farkopy/KM100349195_1898.html", "name": "ИП Колдау", "price": 140000}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/servernoe_oborudovanie/servery/16000208_1898.html", "name": "ASSEL", "price": 2999993}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/dvigatel_i_elementy_dvigatelya/novyy-dvigatel-g4ke.html", "name": "ИП Култай", "price": 1146580}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/dvigatel_i_elementy_dvigatelya/dvigatel-yamz-238-vm.html", "name": "Товарищество с ограниченной ответственностью \"Северный регион 2030\"", "price": 6999982}
+{"url": "https://omarket.kz/catalog/ecc_telefony_i_gadgety/ecc_telefoni_i_gadjeti/smartphones/KM1757827.html", "name": "Товарищество с ограниченной ответственностью \"ТЕХНОМИР ПВ\"", "price": 77}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/Zapasnye-chasti-dlya-stiralnyh-i-suwilnyh-mawin/Programmator-Alliance-Laundry-Parts-AL-806267P.html", "name": "Абдумалик", "price": 463994}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/servernoe_oborudovanie/servery/server-xfusion-fusionserver-1288h-v6-825-inch-hdd-chassis-18-tb.html", "name": "ASSEL", "price": 2278990}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Promywlennye-stiralnye-mawiny-Big-Cloud-XGQ-30F.html", "name": "Товарищество с ограниченной ответственностью \"Промышленный Дизайн\"", "price": 5096900}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralno-otzhimnaya-Kromluks-KOCYS-E-50.html", "name": "Абдумалик", "price": 11999993}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_komplektuyushie/zhestkie_diski/KM100936387_0.html", "name": "ИП Жамбаева", "price": 299985}
+{"url": "https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Mobilnye-zdaniya/YUrty/12-kanatnaya-yurta-ATCR.html", "name": "Абдумалик", "price": 4909997}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Stiralnaya-mawina-IPSO-IA-520--s-zhestkim-krepleniem--zagruzka-52-kg.html", "name": "Абдумалик", "price": 5899993}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/konditsionery/KM100246333_1898.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 485663}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Stiralno-otzhimnaya-mawina-Unimac-UC30--M9--el-obogrev--200G.html", "name": "Абдумалик", "price": 445996}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/oborudovanie_dlya_myasopererabotki/promyshlennye-myasorubki/Myasorubka-Rosso-TC-32--320-kg-ch.html", "name": "ИП Аужанова", "price": 489975}
+{"url": "https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Mobilnye-zdaniya/Mobilnye-sklady/mobilnyy-sklad.html", "name": "Абдумалик", "price": 2341998}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Stiralno-otzhimnaya-mawina-Unimac-UC30--M9--el-obogrev--100G.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 4495979}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/servernoe_oborudovanie/servery/Server-Dell-PowerEdge-R650-Intel-Xeon-Gold-6326.html", "name": "ASSEL", "price": 6999993}
+{"url": "https://omarket.kz/catalog/ecc_prazdnichnaya_atributika/ecc_aksessuari_dlya_prazdnika/tsvety-i-bukety/frantsuzskie-rozovye-rozy.html", "name": "Абдумалик", "price": 44886}
+{"url": "https://omarket.kz/catalog/ecc_ohrana_i_bezopasnost/ecc_sistemy_kontrolya_dostupa/shlagbaumy/doorhan-barrier-pro-6000.html", "name": "Абдумалик", "price": 415960}
+{"url": "https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Blochno-modulnye-zdaniya/Kotelnye/blochno-modulnaya-kotelnaya-800L.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 13145899}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/stiralno-otzimnaia-masina-chirchiq-expo-klean-ysm-a-25-promyslennaia-dlia-pracecnoi.html", "name": "Товарищество с ограниченной ответственностью \"Qaz Bonanza\"", "price": 3554225}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/teplovye_zavesy/Teplovaya-zavesa-Teplomaw-KEV-9P3011E.html", "name": "ИП КУРБАНАЛИЕВ", "price": 564995}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_televizory/televizory_nedorogie/KM2038642.html", "name": "ИП \"Алтынбек Д.А\"", "price": 769928}
+{"url": "https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Mobilnye-zdaniya/YUrty/modulnaya-yurta-zoqt.html", "name": "Абдумалик", "price": 999986}
+{"https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Blochno-modulnye-zdaniya/Kotelnye/blochno-modulnaya-kotelnaya-bmk-2-1hVB.html": "https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Blochno-modulnye-zdaniya/Kotelnye/blochno-modulnaya-kotelnaya-bmk-2-1hVB.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Barnoe-oborudovanie/Miksery-barnye/Mikser-barnyj-Sirman-Sirio-2-VV-Cromato.html", "name": "Абдумалик", "price": 419497}
+{"url": "https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Blochno-modulnye-zdaniya/Punkty-ohrany/ohrannyy-post-IHnK.html", "name": "Абдумалик", "price": 1343994}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Universalnye-kuhonnye-mawiny/Universalnye-kuhonnye-mawiny_/mashina-kuhonnaya-torgmash-ukm-01-universalnaya.html", "name": "ИП Аужанова", "price": 1654896}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/dvigatel_i_elementy_dvigatelya/dvigatel-d24512s-2954-gaz-53gaz-3307.html", "name": "Товарищество с ограниченной ответственностью \"Северный регион 2030\"", "price": 4999980}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Barnoe-oborudovanie/Professionalnye-blendery/Blender-barnyj-Hamilton-Beach-HBH650-CE.html", "name": "ИП Аужанова", "price": 786988}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/ecc_holodilnoe_oborudovanie/Holodilnye-wkafy/skaf-xolodilnyi-polair-cv114-g.html", "name": "ИП \"Harley Dream\"", "price": 1386000}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Universalnye-kuhonnye-mawiny/Universalnye-kuhonnye-mawiny_/Mawina-universalnaya-kuhonnaya-Torgmaw-Perm-UKM-06.html", "name": "ИП Аужанова", "price": 1283587}
+{"url": "https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Blochno-modulnye-zdaniya/Punkty-ohrany/kontrolno-propusknoy-punkt-kpp-lONQ.html", "name": "Абдумалик", "price": 2229598}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/servernoe_oborudovanie/servery/server-tsk-BfFy.html", "name": "ASSEL", "price": 5497992}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Barnoe-oborudovanie/Professionalnye-blendery/Blender-Hamilton-Beach-HBF1100S-CE.html", "name": "Абдумалик", "price": 2398992}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/ecc_holodilnoe_oborudovanie/Holodilnye-wkafy/Holodilnyj-wkaf-Junjian-LG898A2.html", "name": "ИП Khann", "price": 899899}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Universalnye-kuhonnye-mawiny/Universalnye-kuhonnye-mawiny_/Universalnaya-kuhonnaya-mawina-Torgmaw-UKM-08-myasorubka--izmelchitel--ryhlitel.html", "name": "Абдумалик", "price": 699993}
+{"url": "https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Blochno-modulnye-zdaniya/Punkty-ohrany/ohrannaya-budka-iz-sendvich-paneley-17F2.html", "name": "Абдумалик", "price": 1387898}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Stiralnaya-mawina-Speed-Queen-SF3JGBSP403NG22-seraya.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 1431986}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Barnoe-oborudovanie/Professionalnye-blendery/Blender-Rawmid-Professional-RPB-02-chernyj.html", "name": "NANA KZ", "price": 259655}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Instrumenty-dlya-montazha-holodilnogo-oborudovaniya/Stancii-evakuacii-freona/evakuator-freona-stantsiya-rekuperatsii-freona-value-vrr24los-q6oD.html", "name": "Абдумалик", "price": 594991}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoshini_i_diski/avtoshiny/KM12714249_1898.html", "name": "ИП Khann", "price": 39989}
+{"url": "https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Blochno-modulnye-zdaniya/Punkty-razdachi-vody/punkt-razdachi-vody.html", "name": "Абдумалик", "price": 3499984}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_oborudovanie/farkopy/KM100348996_1898.html", "name": "ИП Khann", "price": 219999}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Barnoe-oborudovanie/Professionalnye-blendery/Blender-universalnyj-Hamilton-Beach-HBB908R-CE.html", "name": "ИП Аужанова", "price": 353974}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/dvigatel_i_elementy_dvigatelya/dvigatel-g4fc.html", "name": "Товарищество с ограниченной ответственностью \"Северный регион 2030\"", "price": 1699844}
+{"url": "https://omarket.kz/catalog/Modulnye-i-mobilnye-zdaniya/Blochno-modulnye-zdaniya/Punkty-razdachi-vody/punk-ucheta-i-razdachi-vody-mXEm.html", "name": "Абдумалик", "price": 4499994}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Barnoe-oborudovanie/Miksery-barnye/Mikser-Eko-Kitchen-MS-200-serebristyj.html", "name": "Абдумалик", "price": 282798}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/servernoe_oborudovanie/servery/Hp360_1898.html", "name": "ASSEL", "price": 1314594}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/servernoe_oborudovanie/servery/server-dell-poweredge-r640.html", "name": "ASSEL", "price": 7351492}
+{"url": "https://omarket.kz/catalog/ecc_prazdnichnaya_atributika/ecc_novogodnie_tovary/christmas-tree/KM10600553_1898.html", "name": "ИП Алия", "price": 204546}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_ofis/racks/stellazh-metallicheskiy-25001500300mm-4-polok.html", "name": "Абдумалик", "price": 145787}
+{"https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/14271907_1898.html": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/14271907_1898.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_prazdnichnaya_atributika/ecc_novogodnie_tovary/christmas-tree/KM100672557_1898.html", "name": "ИП Култай", "price": 142886}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Stiralnaya-mawina-Haier-HCW12C.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 1838889}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Promywlennaya-suwilnaya-mawina-Vyazma-VS-30.html", "name": "ИП \"БЕКЖИГИТ\"", "price": 5058397}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_instrumenty/rotary-hammers/perforator16_1898.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 22098}
+{"url": "https://omarket.kz/catalog/ecc_telefony_i_gadgety/ecc_telefoni_i_gadjeti/smartphones/YM722978018_1898.html", "name": "МӘДИЯРЫМОВА ҰЛПАН ҚУАНЫШБЕКҚЫЗЫ", "price": 333223}
+{"https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Suwilnaya-mawina-Tolon-TRD-23.html": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Suwilnaya-mawina-Tolon-TRD-23.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_prazdnichnaya_atributika/ecc_novogodnie_tovary/christmas-tree/KM100672669_1898.html", "name": "ИП Алия", "price": 249547}
+{"url": "https://omarket.kz/catalog/ecc_prazdnichnaya_atributika/ecc_novogodnie_tovary/christmas-tree/KM102608837_0.html", "name": "ИП Алия", "price": 89986}
+{"url": "https://omarket.kz/catalog/ecc_prazdnichnaya_atributika/ecc_novogodnie_tovary/christmas-tree/KM10600552_1898.html", "name": "ИП Алия", "price": 195491}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Fagor-LA-18-TP2-E.html", "name": "Товарищество с ограниченной ответственностью \"Северный регион 2030\"", "price": 5997792}
+{"url": "https://omarket.kz/catalog/ecc_prazdnichnaya_atributika/ecc_novogodnie_tovary/christmas-tree/KM10600551_1898.html", "name": "ИП МИКО", "price": 138997}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_komplektuyushie/zhestkie_diski/zhdisk1_1898.html", "name": "Товарищество с ограниченной ответственностью \"Socrat Computers\"", "price": 15761}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_instrumenty/rotary-hammers/perforator13_1898.html", "name": "Товарищество с ограниченной ответственностью \"Компьютекс Голд\"", "price": 44762}
+{"https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Tolon-TWE-60.html": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-stiralnye-mashiny/Mawina-stiralnaya-Tolon-TWE-60.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_prazdnichnaya_atributika/ecc_novogodnie_tovary/christmas-tree/KM100672680_1898.html", "name": "ИП Алия", "price": 398543}
+{"url": "https://omarket.kz/catalog/ecc_oborudovanie_dlya_prachechnyh_i_himchistok/stiralnye_i_sushilnye_mashiny/promyshlennye-sushilnye-mashiny/Promywlennaya-suwilnaya-mawina-Vyazma--Vega--VS-11--belaya.html", "name": "ИП \"БЕКЖИГИТ\"", "price": 2500650}
+{"url": "https://omarket.kz/catalog/ecc_produkty_pitaniya/ecc_bakaleya/salt/8_2874340.html", "name": "Абдумалик", "price": 6375}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700190_1898.html", "name": "TRAFFORD", "price": 387690}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_ruchnie_instrumenti/tiski/Tiski-slesarnye-Stanley-1-83-065-85-mm.html", "name": "Товарищество с ограниченной ответственностью \"Компьютекс Голд\"", "price": 44358}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/wilo-atmos-pico-251-8.html", "name": "ИП РАХМЕТ", "price": 179895}
+{"url": "https://omarket.kz/catalog/ecc_ohrana_i_bezopasnost/domofony_i_peregovornye_ustroistva/domofony/KM101921559_0.html", "name": "Товарищество с ограниченной ответственностью \"Зейін-2024\"", "price": 44391}
+{"url": "https://omarket.kz/catalog/ecc_ohrana_i_bezopasnost/domofony_i_peregovornye_ustroistva/domofony/KM101520686_0.html", "name": "ТЕХНО КZ", "price": 126990}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_osnastka_dlya_instrumenta/cutting-discs/KM103344084_0.html", "name": "Абдумалик", "price": 97793}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_zimniy_sport/Hokkejnye-lovuwki-i-bliny-dlya-vratarya/lovushka-vratarya-bauer-gsx-s23-podrostkovaya.html", "name": "ИП Хаусбекова", "price": 318447}
+{"url": "https://omarket.kz/catalog/ecc_ohrana_i_bezopasnost/domofony_i_peregovornye_ustroistva/domofony/KM101879424_0.html", "name": "Абдумалик", "price": 67233}
+{"url": "https://omarket.kz/catalog/ecc_ohrana_i_bezopasnost/domofony_i_peregovornye_ustroistva/domofony/KM101879371_0.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 85990}
+{"url": "https://omarket.kz/catalog/ecc_ohrana_i_bezopasnost/domofony_i_peregovornye_ustroistva/domofony/KM101999115_0.html", "name": "ТЕХНО КZ", "price": 72492}
+{"url": "https://omarket.kz/catalog/ecc_ohrana_i_bezopasnost/domofony_i_peregovornye_ustroistva/domofony/KM101921521_0.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 37970}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/unitazy/unitaz00041_1898.html", "name": "Ип Aй-Даймонд", "price": 167990}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_ruchnie_instrumenti/tiski/Tiski-slesarnye-Stanley-1-83-068-105-mm.html", "name": "Абдумалик", "price": 249968}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/SKU16766_1898.html", "name": "ИП Кайыкбаева", "price": 748749}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/plates/KM100625721_1898.html", "name": "ИП Алия", "price": 3432}
+{"url": "https://omarket.kz/catalog/ecc_mebel/ecc_mebel_dlia_spetcializirovannykh_uchrezhdenii/telezhka-meditsinskaya/тпх002_10786069.html", "name": "ИП Жанар", "price": 187900}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/obogrevateli/Konvektor-Ensto-EPHBE20PR-belyj.html", "name": "Товарищество с ограниченной ответственностью \"Репокс\"", "price": 393980}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/SKU16147_1898.html", "name": "Dar", "price": 999983}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_aktivniy_otdih/scooters/KM1966531.html", "name": "ИП Арай", "price": 94500}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM100395694_1898.html", "name": "ИП Алтынбек", "price": 119988}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/elektrochayniki_i_termopoty/KM101991933_0.html", "name": "ИП Бобоярова", "price": 172985}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/obogrevateli/Konvektor-Zilon-ZHC-2000-E3-0.html", "name": "Ledenergy.kz", "price": 54445}
+{"url": "https://omarket.kz/catalog/ecc_medicinskiye_tovary/ecc_medicinskoe_oborudovanie_i_rashodnye_materialy/Diagnosticheskie-i-hirurgicheskie-linzy/diagnosticheskaya-i-hirurgicheskaya-linza-volk-78d.html", "name": "ИП KORKEM", "price": 314822}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM100514346_1898.html", "name": "ИП Алтынбек", "price": 799981}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/plastik-dlya-3d-pechati/Plastik-dlya-3D-pechati-BestFilament--PETG---1-75mm--1-kg---prozrachnyj.html", "name": "Товарищество с ограниченной ответственностью \"VideoHub\"", "price": 39884}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avto_zapchasty/radiatory/KM104109987_0.html", "name": "ИП Королев Владимир Александрович", "price": 203301}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_setevoye_oborudovanie/mediakonvertery/Mediakonverter-SNR-SNR-CVT-100A-V2-belyj.html", "name": "Абдумалик", "price": 26159}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/elektrochayniki_i_termopoty/KM100335623_1898.html", "name": "ИП Култай", "price": 55248}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_zimniy_sport/skates/konki-vratarya-bauer-gsx-int.html", "name": "ИП Колдау", "price": 129982}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19000400_1898.html", "name": "The normal one", "price": 85363}
+{"url": "https://omarket.kz/catalog/ecc_kompyutery/ecc_periferiya/printery_chekov_i_etiketok/CM002_4629698.html", "name": "Абдумалик", "price": 20872}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_aktivniy_otdih/scooters/KM101922144.html", "name": "ИП Халимбетов", "price": 14399}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100725019_1898.html", "name": "The normal one", "price": 44022}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19000380_1898.html", "name": "The normal one", "price": 136562}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM100039016_1898.html", "name": "The normal one", "price": 50661}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM100258228_1898.html", "name": "The normal one", "price": 102943}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100726909_1898.html", "name": "The normal one", "price": 103857}
+{"url": "https://omarket.kz/catalog/ecc_telefony_i_gadgety/ecc_gadjeti/radios-and-radio-stations/PD505VHF_943850.html", "name": "ИП \"НУРГУЛЬ\"", "price": 54042}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19001785_1898.html", "name": "The normal one", "price": 61064}
+{"url": "https://omarket.kz/catalog/ecc_ispaytatelnoe_oborudovanie/Ispytaniya-burovyh-i-tamponazhnyh-rastvorov/Laboratoriya-burovyh-glinistyh-rastvorov/laboratoriya-burovyh-glinistyh-rastvorov-lgr-3-M6RS.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 847890}
+{"url": "https://omarket.kz/catalog/ecc_ispaytatelnoe_oborudovanie/ispytaniya_bituma_asfalta_dorozhnyh_pokrytii/pechi-dlya-ispytaniya-i-obrabotki/mufelnaya-pech-plavkapro-pm-2-2Hn0.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 169980}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19001743_1898.html", "name": "The normal one", "price": 102788}
+{"url": "https://omarket.kz/catalog/ecc_ispaytatelnoe_oborudovanie/Ispytaniya-burovyh-i-tamponazhnyh-rastvorov/Piknometr/piknometr-p-1-C5Dd.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 189890}
+{"url": "https://omarket.kz/catalog/ecc_detskiye_tovary/ecc_igrushki/designers/KM7203108_1898.html", "name": "The normal one", "price": 175456}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/pylesosy/dysonsv21micro_1898.html", "name": "The normal one", "price": 286655}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19001652_1898.html", "name": "The normal one", "price": 61049}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_osnastka_dlya_instrumenta/cutting-discs/KM1990893.html", "name": "The normal one", "price": 44914}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/lawn-mowers/ЦБ000008945_1836163.html", "name": "Товарищество с ограниченной ответственностью \"Зейін-2024\"", "price": 149072}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/cookware-sets/KM100075396_1898.html", "name": "The normal one", "price": 86662}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19001715_1898.html", "name": "The normal one", "price": 121357}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM107200763.html", "name": "The normal one", "price": 139921}
+{"url": "https://omarket.kz/catalog/ecc_poligraficheskoe_oborudovanie_i_materialy/Materialy-dlya-pechati/Bannernye-tkani/bannernaia-tkan-konflex-400gr-matte.html", "name": "ИП  Аманат", "price": 62991}
+{"url": "https://omarket.kz/catalog/ecc_poligraficheskoe_oborudovanie_i_materialy/pechatnoe_oborudovanie/pechatnye-mashiny/Grand32_1898.html", "name": "ИП Кулиева", "price": 2694592}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/smesiteli/KM101981891_0.html", "name": "The normal one", "price": 24760}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/otopitelnye_kotly/KM100428050_0.html", "name": "The normal one", "price": 280639}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_stroitelnoe_oborudovanie/svarochnye_apparaty/KM30000260_1898.html", "name": "Товарищество с ограниченной ответственностью \"Зейін-2024\"", "price": 276721}
+{"url": "https://omarket.kz/catalog/ecc_poligraficheskoe_oborudovanie_i_materialy/pechatnoe_oborudovanie/pechatnye-mashiny/plottery-epson-surecolor-sc-t3100-s-podstavkoy.html", "name": "Абдумалик", "price": 978994}
+{"url": "https://omarket.kz/catalog/ecc_poligraficheskoe_oborudovanie_i_materialy/pechatnoe_oborudovanie/pechatnye-mashiny/Rizograf-Riso-SF-9390.html", "name": "Абдумалик", "price": 7349996}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM100093603_0.html", "name": "The normal one", "price": 39611}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/blendery/Blender-Scarlett-SC-HB42F80-belyj.html", "name": "ИП Култай", "price": 30108}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM100857791_0.html", "name": "The normal one", "price": 202338}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/smesiteli/smesitel-dlya-vanny-zegor-pud7-a045-hrom.html", "name": "The normal one", "price": 8960}
+{"url": "https://omarket.kz/catalog/ecc_poligraficheskoe_oborudovanie_i_materialy/postpechatnoe_oborudovanie/Bigovalnye-mawiny/Avtomaticheskaya-bigovalnaya-mawina-Sabtec-CR-370.html", "name": "Товарищество с ограниченной ответственностью \"ХАЗАР-ПВ\"", "price": 1649950}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/pylesosy/KM101195138_0.html", "name": "The normal one", "price": 994910}
+{"url": "https://omarket.kz/catalog/ecc_poligraficheskoe_oborudovanie_i_materialy/pechatnoe_oborudovanie/pechatnye-mashiny/Plotter-HP-DesignJet-T730-F9A29D.html", "name": "Товарищество с ограниченной ответственностью \"BUSINESSIN\"", "price": 2230247}
+{"url": "https://omarket.kz/catalog/ecc_poligraficheskoe_oborudovanie_i_materialy/pechatnoe_oborudovanie/pechatnye-mashiny/Rizograf-Riso-SF-5350-EII-s-vstroennym-interfejsom.html", "name": "Абдумалик", "price": 3999795}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/smesiteli/KM13900074_1898.html", "name": "The normal one", "price": 14757}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/sokovyzhimalki/Sokovyzhimalka-Salyut-SVPR-201-belaya.html", "name": "The normal one", "price": 98934}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/grili/Elektrogril-First--FA-5330-chernyj.html", "name": "The normal one", "price": 62084}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM100857784_0.html", "name": "The normal one", "price": 274568}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/grili/Rakletnica-gril-Steba-RC-4-Plus-Delux-serebristaya.html", "name": "NANA KZ", "price": 192630}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM104919953.html", "name": "The normal one", "price": 132102}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27701079_0.html", "name": "The normal one", "price": 537964}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/sokovyzhimalki/Sokovyzhimalka-Ariete-413-Vintage-golubaya.html", "name": "The normal one", "price": 146469}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100109128_1898.html", "name": "The normal one", "price": 95884}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700261_1898.html", "name": "The normal one", "price": 207988}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700072_1898.html", "name": "The normal one", "price": 103953}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/otopitelnye_kotly/KM102360688_0.html", "name": "The normal one", "price": 346763}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700375_0.html", "name": "The normal one", "price": 153360}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/otopitelnye_kotly/KM102360754_0.html", "name": "The normal one", "price": 371721}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM1984361.html", "name": "ИП Халимбетов", "price": 39760}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/tostery/Toster-Centek-CT-1426-belyj.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 18013}
+{"url": "https://omarket.kz/catalog/Liftovoe-oborudovanie/Zapchasti-dlya-liftovogo-oborudovaniya/Platy-sistemy-upravleniya-i-moduli-liftov/plata-privoda-kabinnyh-dverey-Cuh0.html", "name": "Абдумалик", "price": 499994}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/cookware-sets/Nabor-posudy-Katun-Gretta-3-predmeta.html", "name": "The normal one", "price": 35946}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_audiotehnika/akusticheskie_sistemy/Aktivnaya-akusticheskaya-sistema-JBL--104-BT--belaya.html", "name": "ИП Култай", "price": 277365}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_stroitelnoe_oborudovanie/stroitelnye_lestnitsy_i_stremyanki/KM50500173_1898.html", "name": "Товарищество с ограниченной ответственностью \"Зейін-2024\"", "price": 99276}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM100411569_1898.html", "name": "ИП Аида", "price": 73890}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/blendery/Blender-Sunmile-SM-BMO-belyj.html", "name": "ИП Култай", "price": 12000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/myasorubki/Myasorubka-Willmark-WMG-2013B-chernaya.html", "name": "The normal one", "price": 34841}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/sokovyzhimalki/Sokovyzhimalka-Kitfort-KT-1113-serebristaya.html", "name": "The normal one", "price": 113950}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/948040820_1898.html", "name": "The normal one", "price": 196353}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/1249250720_1898.html", "name": "The normal one", "price": 196256}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM100382701_1898.html", "name": "ИП Кенешева", "price": 892740}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM100347145_1898.html", "name": "ИП Халимбетов", "price": 247417}
+{"url": "https://omarket.kz/catalog/Liftovoe-oborudovanie/Zapchasti-dlya-liftovogo-oborudovaniya/Privody-dverej-kabiny/reguliruemyy-privod-dverey-kabiny-lifta-magnus-21.html", "name": "Товарищество с ограниченной ответственностью \"ХАЗАР-ПВ\"", "price": 238920}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/1730050820_1898.html", "name": "The normal one", "price": 196348}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/1003290720_1898.html", "name": "The normal one", "price": 85301}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM105705783.html", "name": "ИП Алтынбек", "price": 38899}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/myasorubki/Myasorubka-Haier-HG-700-belaya.html", "name": "ИП Бобоярова", "price": 110327}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_audiotehnika/akusticheskie_sistemy/Akusticheskaya-sistema-Yamaha--S15---chernaya--para-.html", "name": "The normal one", "price": 143988}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_televizory/televizory_nedorogie/KM2038655.html", "name": "The normal one", "price": 1094999}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/pylesosy/Pylesos-Fakir-Prestige-TS-2400-krasnyj.html", "name": "The normal one", "price": 269895}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700054_1898.html", "name": "The normal one", "price": 92893}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM100068753_1898.html", "name": "The normal one", "price": 193978}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/stiralnye_mashiny/Stiralnaya-mawina-Artel-TG-50-P-Water-01.html", "name": "The normal one", "price": 50684}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_audiotehnika/akusticheskie_sistemy/Portativnaya-akusticheskaya-sistema-JBL-Eon-One-Sompact--chernaya.html", "name": "ИП Култай", "price": 707837}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/kukhonnye_vesy/18581798_1898.html", "name": "ИП Аида", "price": 15434}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoshini_i_diski/avtoshiny/KM12700444_1898.html", "name": "ИП Асыл", "price": 93176}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoshini_i_diski/avtoshiny/KM100013243_1898.html", "name": "ИП \"MAX сервис\"", "price": 228891}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/shveynye_mashiny/KM5000707_0.html", "name": "The normal one", "price": 1282225}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/multivarki/Multivarka-Ardesto-MC-H16X-serebristaya.html", "name": "ИП Култай", "price": 259657}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_audiotehnika/akusticheskie_sistemy/Akusticheskaya-sistema-Studio-Evolution-EvoSound-Sphere--chernaya.html", "name": "ИП Култай", "price": 491077}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoshini_i_diski/avtoshiny/KM12705556_1898.html", "name": "Стильный дом", "price": 48638}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_audiotehnika/akusticheskie_sistemy/Portativnaya-Akusticheskaya-sistema-LEEM-PR-6-chernyj.html", "name": "The normal one", "price": 195333}
+{"url": "https://omarket.kz/catalog/Liftovoe-oborudovanie/Zapchasti-dlya-liftovogo-oborudovaniya/CHastotnye-preobrazovateli-dlya-lifta/chastotnyy-preobrazovatel-2z9t.html", "name": "ИП Хаусбекова", "price": 828699}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM108814181.html", "name": "ИП Алтынбек", "price": 270527}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/1431290720_1898.html", "name": "The normal one", "price": 197556}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoshini_i_diski/avtoshiny/KM12715966_1898.html", "name": "Стильный дом", "price": 73281}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoshini_i_diski/avtoshiny/KM12708169_1898.html", "name": "ИП Аужанова", "price": 229898}
+{"url": "https://omarket.kz/catalog/Liftovoe-oborudovanie/Zapchasti-dlya-liftovogo-oborudovaniya/CHastotnye-preobrazovateli-dlya-lifta/chastotnyy-preobrazovatel-step-electric-co-ltd-as380-4t0015.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 829790}
+{"url": "https://omarket.kz/catalog/ecc_torgovoe_oborudovanie/pos_oborudovanie/pos-sistemy/POS-sistema-Idsoft-ID4000-chernaya.html", "name": "ИП Аида", "price": 229927}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_stroitelnoe_oborudovanie/svarochnye_apparaty/KM30000184_1898.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 182935}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM100366498_1898.html", "name": "The normal one", "price": 172474}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/125727_1898.html", "name": "Товарищество с ограниченной ответственностью \"Soft Satu\"", "price": 6240}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/138936.html", "name": "Товарищество с ограниченной ответственностью \"БЕКЖИГИТ\"", "price": 6500}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoshini_i_diski/avtoshiny/KM12717761_1898.html", "name": "Стильный дом", "price": 195928}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoshini_i_diski/avtoshiny/Avtoshina710_1898.html", "name": "Стильный дом", "price": 60911}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/kofevarki_i_kofemashiny/KM1761597.html", "name": "The normal one", "price": 138988}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoshini_i_diski/avtoshiny/KM12709725_1898.html", "name": "Стильный дом", "price": 107066}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/kofevarki_i_kofemashiny/KM2017753.html", "name": "ИП Халимбетов", "price": 2485062}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/40160_1898.html", "name": "ИП Култай", "price": 7679}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM101258943.html", "name": "ИП Алтынбек", "price": 189989}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/otopitelnye_kotly/KM100422033_1898.html", "name": "Товарищество с ограниченной ответственностью \"СНАБСТРОЙ ЮГ\"", "price": 449885}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/kofevarki_i_kofemashiny/Kofemawina-Caso-Cafe-Crema-One-serebristaya.html", "name": "The normal one", "price": 224598}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/wilo-top-s-257-em-pn610.html", "name": "The normal one", "price": 296537}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/pylesosy/KM3701005_0.html", "name": "Товарищество с ограниченной ответственностью \"Компьютекс Голд\"", "price": 179908}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/66542_1898.html", "name": "ИП Култай", "price": 65459}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/otopitelnye_kotly/KM8500135_1898.html", "name": "Товарищество с ограниченной ответственностью \"Компьютекс Голд\"", "price": 459908}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_televizory/televizory_nedorogie/KM1759790.html", "name": "The normal one", "price": 527949}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/66543_1898.html", "name": "ИП Жанторе", "price": 39968}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/otopitelnye_kotly/KM8500345_1898.html", "name": "Товарищество с ограниченной ответственностью \"СНАБСТРОЙ ЮГ\"", "price": 550650}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_televizory/televizory_nedorogie/KM1759877.html", "name": "ИП Еркебайұлы", "price": 334880}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM101593716_0.html", "name": "The normal one", "price": 79998}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/66539_1898.html", "name": "ИП Култай", "price": 98869}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_avtoshini_i_diski/avtoshiny/KM12707406_1898.html", "name": "The normal one", "price": 99998}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/68291_1898.html", "name": "ИП Култай", "price": 89959}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/KM1793995.html", "name": "Dar", "price": 44979}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/varochnye_poverkhnosti/KM100433478_1898.html", "name": "The normal one", "price": 138905}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/47217_814879.html", "name": "Товарищество с ограниченной ответственностью \"ОТВЕРТКА.KZ\"", "price": 19993}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/20049_1898.html", "name": "ИП Балтабаева", "price": 53989}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/6504_1898.html", "name": "ИП Ілияс", "price": 18875}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/KM1793992.html", "name": "ИП Култай", "price": 38649}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/136618_1898.html", "name": "The normal one", "price": 146239}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_audiotehnika/akusticheskie_sistemy/Akusticheskaya-sistema-Edifier-R1580MB-chernaya.html", "name": "The normal one", "price": 160643}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/KM100168864_1898.html", "name": "The normal one", "price": 76462}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_stroitelnoe_oborudovanie/vozdushnye_kompressory/KM50600089_1898.html", "name": "Товарищество с ограниченной ответственностью \"Зейін-2024\"", "price": 140384}
+{"url": "https://omarket.kz/catalog/ecc_torgovoe_oborudovanie/pos_oborudovanie/pos-sistemy/POS-sistema-AVT-A1-chernaya.html", "name": "The normal one", "price": 190970}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700921_0.html", "name": "The normal one", "price": 87467}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/otopitelnye_kotly/otopitelnyy-kotel-solarius-100-dlitelnogo-goreniya-gcnA.html", "name": "ИП Алтынбек", "price": 3965923}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/blendery/Blender-Xiaomi-MPBJ001ACM-Mijia-Smart-Cooking-Machine-belyj.html", "name": "The normal one", "price": 37996}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27701109_0.html", "name": "The normal one", "price": 124644}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_stroitelnoe_oborudovanie/svarochnye_apparaty/KM30000023_1898.html", "name": "The normal one", "price": 144677}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/KM2402319_1898.html", "name": "The normal one", "price": 112240}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/KM100716406_1898.html", "name": "The normal one", "price": 123261}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/KM1793988.html", "name": "ИП Култай", "price": 11979}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700677_1898.html", "name": "The normal one", "price": 744769}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/tostery/Toster-Handel-EST-6-seryj.html", "name": "ИП Култай", "price": 178179}
+{"url": "https://omarket.kz/catalog/ecc_torgovoe_oborudovanie/pos_oborudovanie/pos-sistemy/POS-sistema-Avt-T610-Plus-chernaya.html", "name": "The normal one", "price": 187384}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/aksessuary_k_klimaticheskoy_tekhnike/KM1793984.html", "name": "ИП Harper", "price": 32993}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/miksery/1241100820_1898.html", "name": "The normal one", "price": 105778}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_audiotehnika/akusticheskie_sistemy/Akusticheskaya-sistema-RCF-ART-710-A-MK4-chernaya.html", "name": "The normal one", "price": 257961}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/KM2400163_1898.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 109885}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/parogeneratory/Parogenerator-Tefal-Pro-Express-Protect-GV9220E0-belyj-krasnyj.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 199260}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/pylesosy/KM101270757_0.html", "name": "ИП Асыл", "price": 227257}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700195_1898.html", "name": "The normal one", "price": 534671}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/stiralnye_mashiny/KM1758939.html", "name": "ИП Колдау", "price": 590000}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM100803275_0.html", "name": "The normal one", "price": 194112}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM106119232.html", "name": "ИП Халимбетов", "price": 142722}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/miksery/1223170820_1898.html", "name": "The normal one", "price": 724933}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/miksery/68773_1898.html", "name": "Товарищество с ограниченной ответственностью \"Зейін-2024\"", "price": 297964}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/grili/Rakletnica-gril-Steba-RC-3-Plus-chernaya.html", "name": "The normal one", "price": 395810}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/morozilnye_kamery/KM102941712_0.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 178996}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/ventilyatory/69563_1898.html", "name": "ИП \"НУРГУЛЬ\"", "price": 36401}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/otopitelnye_kotly/Otopitelnyj-kotel-Riga-ALeO-KSG-10-belo-krasnyj.html", "name": "Товарищество с ограниченной ответственностью \"СНАБСТРОЙ ЮГ\"", "price": 183061}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-kva-s-tremya-hodami-dymovyh-gazov-kva-1800-5Mgr.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 12999974}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-kva-s-tremya-hodami-dymovyh-gazov-kva-3150-U1Rx.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 11699975}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/kofevarki_i_kofemashiny/Kofemawina-Saeco-Aulika-EVO-B-chernaya.html", "name": "ИП Култай", "price": 1654708}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-vodogreynyy-kvsr-90-f720.html", "name": "AIDARBEKOVA", "price": 2000000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-kva-s-tremya-hodami-dymovyh-gazov-kva-2500-beQU.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 12999976}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-kva-s-tremya-hodami-dymovyh-gazov-kva-2000-Z4b9.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 11799975}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-kva-s-tremya-hodami-dymovyh-gazov-kva-1600-eplU.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 11479880}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-dlitelnogo-goreniya-termolong-kv-400-kvt.html", "name": "ИП Ілияс", "price": 5799985}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/vodogreynyy-kotel-kvsr350-f1400-HCki.html", "name": "AIDARBEKOVA", "price": 2000000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-kva-s-tremya-hodami-dymovyh-gazov-kva-630-SMu8.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 6399765}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/vodogreynyy-kotel-kvr-20.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 11314490}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/vodogreynyy-kotyol-ici-rex-62.html", "name": "ИП Миянов", "price": 6699999}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-dlitelnogo-goreniya-termolong-kv-450-kvt.html", "name": "ИП Ілияс", "price": 5799985}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/vodogreynyy-kotel-kvsr550-f1450-p3Sm.html", "name": "AIDARBEKOVA", "price": 2000000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-kva-s-tremya-hodami-dymovyh-gazov-kva-1200-cAqV.html", "name": "ИП Хаусбекова", "price": 10999898}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/vodogreynyy-kotel-buran-boiler-vv-1200rd.html", "name": "ИП Балтабаева", "price": 6740989}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/Vodogrejnyj-kotel-Kotelnyj-zavod-KVZR-KVr-0-7.html", "name": "AIDARBEKOVA", "price": 3593740}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/vodogreynyy-kotel-buran-boiler-vv-5535rg.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 8466959}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-kva-s-tremya-hodami-dymovyh-gazov-kva-1400-gQvk.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 8999975}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-dlitelnogo-goreniya-termolong-kv-300-kvt.html", "name": "МАЙРА", "price": 5299989}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-dlitelnogo-goreniya-termolong-kv-200-kvt.html", "name": "МАЙРА", "price": 4499993}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-dlitelnogo-goreniya-termolong-kv-100-kvt.html", "name": "МАЙРА", "price": 2499989}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/vodogreynyy-kotel-kvr-03k-oifr.html", "name": "AIDARBEKOVA", "price": 2000000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/vodogreynyy-kotel-too-standart-stroy-kvr-035k-na-tverdom-toplive-qUph.html", "name": "AIDARBEKOVA", "price": 2000000}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/dushi_umyvalniki_tualety/biotualety/tualetnaya-kabina-standart-pro-s-plastikovym-poddonom-lts-pp.html", "name": "ИП Жақсыбек", "price": 179999}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-marka-kvsr-350-7oDq.html", "name": "AIDARBEKOVA", "price": 2000000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-dlitelnogo-goreniya-termolong-kv-30-kvt.html", "name": "МАЙРА", "price": 1193979}
+{"https://omarket.kz/catalog/Liftovoe-oborudovanie/Lifty/Passazhirskie-lifty/lift-passazhirskie-vital-mr-630-kg-3-stops.html": "https://omarket.kz/catalog/Liftovoe-oborudovanie/Lifty/Passazhirskie-lifty/lift-passazhirskie-vital-mr-630-kg-3-stops.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_selskoye_hozyaistvo/selskohozyaistvennaya_tehnika/navesnoe-oborudovanie-dlya-selkhoztekhniki/kosilka-rotatsionnaya-navesnaya-krn-21-b-VG6M.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 2468680}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/stiralnye_mashiny/KM101352691_0.html", "name": "Товарищество с ограниченной ответственностью \"Компьютекс Голд\"", "price": 540989}
+{"https://omarket.kz/catalog/Liftovoe-oborudovanie/Lifty/Passazhirskie-lifty/lift-passazhirskie-vital-mr-1000-kg-2-stops.html": "https://omarket.kz/catalog/Liftovoe-oborudovanie/Lifty/Passazhirskie-lifty/lift-passazhirskie-vital-mr-1000-kg-2-stops.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-dlitelnogo-goreniya-termolong-kv-60-kvt.html", "name": "МАЙРА", "price": 1750979}
+{"https://omarket.kz/catalog/Liftovoe-oborudovanie/Lifty/Passazhirskie-lifty/lift-passazhirskie-vital-mr-630-kg-3-stops-rHaA.html": "https://omarket.kz/catalog/Liftovoe-oborudovanie/Lifty/Passazhirskie-lifty/lift-passazhirskie-vital-mr-630-kg-3-stops-rHaA.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-kva-s-tremya-hodami-dymovyh-gazov-kva-800-46go.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 6898865}
+{"https://omarket.kz/catalog/Liftovoe-oborudovanie/Lifty/Passazhirskie-lifty/lift-passazhirskie-vital-mr-1000-kg-2-stops-I60D.html": "https://omarket.kz/catalog/Liftovoe-oborudovanie/Lifty/Passazhirskie-lifty/lift-passazhirskie-vital-mr-1000-kg-2-stops-I60D.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/vodogreynyy-kotel-otopitelnyy-kvr-05k.html", "name": "Товарищество с ограниченной ответственностью \"NT TRADE KAZAKHSTAN\"", "price": 11999989}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/vodogreynye-kotly/kotel-dlitelnogo-goreniya-termolong-kv-50-kvt.html", "name": "МАЙРА", "price": 1399989}
+{"https://omarket.kz/catalog/Liftovoe-oborudovanie/Lifty/Bolnichnye-lifty/lift-passazhirskiy-bolnichnyy-vital-mr-1200-kg-4-stopa-httpswwwvitalasansorcomrud0bad0b0d182d0b0d0bbd0bed0b348-YRdN.html": "https://omarket.kz/catalog/Liftovoe-oborudovanie/Lifty/Bolnichnye-lifty/lift-passazhirskiy-bolnichnyy-vital-mr-1200-kg-4-stopa-httpswwwvitalasansorcomrud0bad0b0d182d0b0d0bbd0bed0b348-YRdN.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_selskoye_hozyaistvo/selskohozyaistvennaya_tehnika/navesnoe-oborudovanie-dlya-selkhoztekhniki/lesoposadochnaya-mashina-sl-1-H4AY.html", "name": "ТЕХНО КZ", "price": 4786987}
+{"url": "https://omarket.kz/catalog/ecc_selskoye_hozyaistvo/selskohozyaistvennaya_tehnika/navesnoe-oborudovanie-dlya-selkhoztekhniki/borona-diskovaya-bdf-24-0EsA.html", "name": "ИП Яси-Нұр", "price": 483399}
+{"url": "https://omarket.kz/catalog/ecc_selskoye_hozyaistvo/selskohozyaistvennaya_tehnika/navesnoe-oborudovanie-dlya-selkhoztekhniki/yamokopatel-dem-112-BJ1I.html", "name": "ИП Сейтімбетов Бекнұр", "price": 5199966}
+{"url": "https://omarket.kz/catalog/ecc_selskoye_hozyaistvo/selskohozyaistvennaya_tehnika/navesnoe-oborudovanie-dlya-selkhoztekhniki/plug-plantazhnyy-navesnoy-ppn-2-50.html", "name": "Товарищество с ограниченной ответственностью \"Нур-Келес\"", "price": 2249000}
+{"url": "https://omarket.kz/catalog/ecc_selskoye_hozyaistvo/selskohozyaistvennaya_tehnika/navesnoe-oborudovanie-dlya-selkhoztekhniki/borona-diskovaya-dvuhryadnaya-navesnaya-dana-bdn-24h2-KjcX.html", "name": "ИП Хаусбекова", "price": 4395497}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM542650065_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727924405_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1728136651_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1728055734_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1721491123_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1721599598_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1723060273_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1728139759_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724286673_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM421247402_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724339579_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM218887074_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1726891400_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727729737_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1726891399_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1722449047_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727729605_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1725537339_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724975439_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727731706_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724980385_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1722306545_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724975491_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM421246366_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727654099_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1728221317_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM657064753_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724979600_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1726891401_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1728136687_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727617600_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727732191_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1723312835_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1726891394_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724706099_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727584572_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1728221169_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724980264_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1722538689_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727546965_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1728221167_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1725535293_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724706218_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1723372185_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM562757009_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724706394_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727288452_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/shtanga-iwf-muzh-190-kg-trenirov-tsvet-q6Oa.html", "name": "ИП КУЖАБАЕВ В.Ю.", "price": 1449999}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727433012_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1721636841_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727288756_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/OK300745_815581.html", "name": "ИП БУРЫКИНА ЮЛИЯ СЕРГЕЕВНА", "price": 109553}
+{"url": "https://omarket.kz/catalog/ecc_selskoye_hozyaistvo/selskohozyaistvennaya_tehnika/navesnoe-oborudovanie-dlya-selkhoztekhniki/kultivator.html", "name": "NigmatullinRT", "price": 2500000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727433954_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727274180_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1728055762_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/OK300735_815581.html", "name": "ИП БУРЫКИНА ЮЛИЯ СЕРГЕЕВНА", "price": 85508}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/OK300720_815581.html", "name": "ИП БУРЫКИНА ЮЛИЯ СЕРГЕЕВНА", "price": 49446}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727431615_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727269350_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1721599602_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/shtanga-tyazheloatleticheskaya-trenirovochnaya-art-zkx-i-190-20.html", "name": "ИП Омега-Спорт", "price": 1600000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1727431776_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/shtanga-tyazhyoloatleticheskaya-sorevnovatelnaya-art-zkc-ii-190-20.html", "name": "ИП Омега-Спорт", "price": 2200000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1721942529_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1724286936_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/shtanga-tyazheloatleticheskaya-trenirovochnaya-art-zkx-190-20.html", "name": "ИП Омега-Спорт", "price": 1300000}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/zkc-iwf-mens-competition-bar-grif-muzhskoy-sorevnovatelnyy.html", "name": "ИП КУЖАБАЕВ В.Ю.", "price": 750000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_klimaticheskaya_tehnika/rekuperatory/YM1721636814_1898.html", "name": "ИП \"Алаш\"", "price": 1999887}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/kc-if-womenscompetition-bar-zhenskiy-sorevnovatelnyy-grif.html", "name": "ИП Омега-Спорт", "price": 750000}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/OK300740_815581.html", "name": "ИП БУРЫКИНА ЮЛИЯ СЕРГЕЕВНА", "price": 97535}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19001544_1898.html", "name": "The normal one", "price": 72759}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM31500157_1898.html", "name": "The normal one", "price": 35905}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/OK300730_815581.html", "name": "ИП БУРЫКИНА ЮЛИЯ СЕРГЕЕВНА", "price": 73482}
+{"https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/OK300715_815581.html": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/OK300715_815581.html", "error": "Error: 'NoneType' object has no attribute 'find'"}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/varochnye_poverkhnosti/Varochnaya-poverhnost-Bosch-PXX675DV1E-chernaya.html", "name": "ИП Култай", "price": 669991}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/varochnye_poverkhnosti/Varochnaya-poverhnost-Samsung-NZ64T3516QK-WT--chernaya.html", "name": "КАЗАКБАЕВА МОЛДИР", "price": 279938}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/shtanga-trenirovochnaya-dhs-hercules-190-kg-OJU7.html", "name": "ИП КУЖАБАЕВ В.Ю.", "price": 1249999}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/OK300725_815581.html", "name": "ИП БУРЫКИНА ЮЛИЯ СЕРГЕЕВНА", "price": 61464}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/varochnye_poverkhnosti/KM4501343_1898.html", "name": "КАЗАКБАЕВА МОЛДИР", "price": 456149}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM100101388_1898.html", "name": "The normal one", "price": 64916}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_audiotehnika/mikshernye-pulty/Mikwernyj-pult-Tum-TF-8-D-chernyj.html", "name": "ИП Манакова", "price": 343897}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/shtanga-tehnicheskaya-zkc-5zTF.html", "name": "ИП Омега-Спорт", "price": 450000}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/blendery/Blender-Steba-MX-4-Plus-cherno-serebristyj.html", "name": "ИП Халимбетов", "price": 184920}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/smesiteli/KM827728.html", "name": "The normal one", "price": 148949}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/varochnye_poverkhnosti/Varochnaya-poverhnost-Hotpoint-Ariston-HB-4160S-NE-chernaya.html", "name": "ИП Култай", "price": 296199}
+{"url": "https://omarket.kz/catalog/ecc_sport_turizm/ecc_trenazhiori_i_fitness/barbell/OK300710_815581.html", "name": "ИП БУРЫКИНА ЮЛИЯ СЕРГЕЕВНА", "price": 25401}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100624596_1898.html", "name": "The normal one", "price": 317800}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/varochnye_poverkhnosti/Varochnaya-poverhnost-LG-HU642VH-chernaya.html", "name": "ИП Култай", "price": 439979}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM103471816.html", "name": "The normal one", "price": 243747}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/hlebopekarnoe_i_konditerskoe_oborudovanie/testomesy/Testomes-HNC-HHY-50M.html", "name": "ИП Аужанова", "price": 949275}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM100605266_0.html", "name": "The normal one", "price": 259825}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/kofevarki_i_kofemashiny/Kofemawina-Nivona-CafeRomatica-779-belaya.html", "name": "The normal one", "price": 451668}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM102228955.html", "name": "The normal one", "price": 85482}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/Nastolnye-plity/Nastolnaya-plita-Zigmund---Shtain-ZIP-554-cherno-serebristaya.html", "name": "ИП Халимбетов", "price": 117933}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/varochnye_poverkhnosti/KM100098861_1898.html", "name": "КАЗАКБАЕВА МОЛДИР", "price": 239888}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/myasorubki/1510391_8070603.html", "name": "NANA KZ", "price": 146874}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/Nastolnye-plity/Nastolnaya-plita-Iplate-3500-Alina-serebristaya.html", "name": "The normal one", "price": 151868}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/varochnye_poverkhnosti/Varochnaya-poverhnost-LG-HU-641-PH-chernaya.html", "name": "ИП Култай", "price": 219859}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM1984444.html", "name": "The normal one", "price": 374292}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/varochnye_poverkhnosti/varpov16_1898.html", "name": "Товарищество с ограниченной ответственностью \"Soft Satu\"", "price": 219746}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/varochnye_poverkhnosti/KM1820692.html", "name": "ИП КУРБАНАЛИЕВ", "price": 218900}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/KM1821503.html", "name": "Товарищество с ограниченной ответственностью \"Soft Satu\"", "price": 215960}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/myasorubki/Myasorubka-Gemlux-GL-MG5PRO-serebristaya.html", "name": "The normal one", "price": 48693}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM2015652.html", "name": "The normal one", "price": 156241}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/kofevarki_i_kofemashiny/KM1761616.html", "name": "The normal one", "price": 539088}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/multivarki/Multivarka-Redmond-RMC-PM381-serebristaya.html", "name": "ИП Култай", "price": 156893}
+{"url": "https://omarket.kz/catalog/ecc_poligraficheskoe_oborudovanie_i_materialy/postpechatnoe_oborudovanie/Rezhushhie-plottery/Planwetnyj-rezhushhij-plotter-formata--Duplo-PFi-Blade-B2-.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 53943990}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/grili/Elektrogril-Steba-FG-120-serebristyj.html", "name": "The normal one", "price": 190836}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/KM1821522.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 351778}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/sokovyzhimalki/Sokovyzhimalka-Scarlett-SC-JE50S54-chernaya.html", "name": "The normal one", "price": 56987}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/kofevarki_i_kofemashiny/Kofemawina-Saeco-Aulika-EVO-Focus-chernaya.html", "name": "The normal one", "price": 980240}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/parogeneratory/Parogenerator-Braun-CareStyle-3-IS3155VI-belyj-fioletovyj.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 132061}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/kofevarki_i_kofemashiny/KM100563870_1898.html", "name": "The normal one", "price": 1058988}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/sokovyzhimalki/Sokovyzhimalka-Endever-Sigma-93-korichnevaya.html", "name": "The normal one", "price": 49997}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/miksery/140017080_1898.html", "name": "The normal one", "price": 122816}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/201361_1898.html", "name": "ИП Аужанова", "price": 193899}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/parogeneratory/KM1758825.html", "name": "The normal one", "price": 280369}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700848_1898.html", "name": "The normal one", "price": 64048}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/kofevarki_i_kofemashiny/KM4400227_1898.html", "name": "The normal one", "price": 289983}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/17042007202_1898.html", "name": "ИП Балтабаева", "price": 295682}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_stroitelnoe_oborudovanie/vozdushnye_kompressory/KM100018444_1898.html", "name": "The normal one", "price": 179998}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700407_1898.html", "name": "The normal one", "price": 336722}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_audiotehnika/portable-and-smart-speakers/KM2038680.html", "name": "The normal one", "price": 246911}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19001713_1898.html", "name": "The normal one", "price": 121507}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_dvery/the-front-door/Vhodnaya-dver-Volga---Bunker-Velmi-860h2050-mm-pravaya.html", "name": "ИП Сырым Батыр", "price": 394949}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/KM27700405_1898.html", "name": "The normal one", "price": 592721}
+{"url": "https://omarket.kz/catalog/ecc_audio_video/ecc_audiotehnika/akusticheskie_sistemy/Akusticheskaya-sistema-Roland-PM-100-chernaya.html", "name": "The normal one", "price": 326385}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/miksery/1532110820_1898.html", "name": "The normal one", "price": 19952}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/pylesosy/KM2003927.html", "name": "The normal one", "price": 284206}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19000829_1898.html", "name": "The normal one", "price": 111861}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19000057_1898.html", "name": "The normal one", "price": 59501}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100502702_1898.html", "name": "The normal one", "price": 324831}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_posuda_i_prinadlezhnosti/sets/KM105706911.html", "name": "The normal one", "price": 104959}
+{"url": "https://omarket.kz/catalog/ecc_torgovoe_oborudovanie/pos_oborudovanie/pos-sistemy/POS-sistema-Avt-Elanda-A64-chernaya.html", "name": "The normal one", "price": 395212}
+{"url": "https://omarket.kz/catalog/ecc_telefony_i_gadgety/ecc_gadjeti/radios-and-radio-stations/Retranslyator-Hytera-E-pack100.html", "name": "ТЕХНО КZ", "price": 9999751}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_krupnaya_tehnika/vytyazhki/Vytyazhka-Shivaki-ART-0960-L-Punto-Inox-belaya.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 73944}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_kuhonnaya_tehnika_i_pribori/miksery/913100820_1898.html", "name": "The normal one", "price": 59946}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_dvery/the-front-door/Vhodnaya-dver-Volga---Bunker-Ratibor-860h2050-mm-levaya.html", "name": "ИП Сырым Батыр", "price": 549888}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100722636_1898.html", "name": "The normal one", "price": 77827}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100722406_1898.html", "name": "The normal one", "price": 84457}
+{"url": "https://omarket.kz/catalog/ecc_telefony_i_gadgety/ecc_gadjeti/radios-and-radio-stations/Retranslyator-Hytera-HR-1065-v-komplekte-s-duplekserom--antennoj-i-machtoj.html", "name": "ТЕХНО КZ", "price": 7098970}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/poverhnostnyy-nasos-elit-pw-550.html", "name": "The normal one", "price": 49998}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19002612_1898.html", "name": "The normal one", "price": 53249}
+{"url": "https://omarket.kz/catalog/ecc_telefony_i_gadgety/ecc_gadjeti/radios-and-radio-stations/Raciya-portativnaya-Xiaomi-XMDJJL01-Walkie-Talkie-belaya.html", "name": "ТЕХНО КZ", "price": 53391}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100665335_1898.html", "name": "The normal one", "price": 36348}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100509782_1898.html", "name": "The normal one", "price": 87711}
+{"url": "https://omarket.kz/catalog/ecc_pichshevoe_oborudovanie/Posudomoechnoe-oborudovanie/Kupolnye-posudomoechnye-mawiny/Posudomoechnaya-mawina-kupolnogo-tipa-OAO--Zavod--Prommaw--PM-K.html", "name": "The normal one", "price": 1249956}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100526273_1898.html", "name": "The normal one", "price": 98111}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_elektropitanie/akkumulyatory/KM100040233_1898.html", "name": "The normal one", "price": 77945}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100502842_1898.html", "name": "The normal one", "price": 29311}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/0000054230_17320.html", "name": "Товарищество с ограниченной ответственностью \"Зейін-2024\"", "price": 52985}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM100506175_1898.html", "name": "The normal one", "price": 76141}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19001414_1898.html", "name": "The normal one", "price": 249328}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/water-pumps/vn00000031_1898.html", "name": "The normal one", "price": 86171}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/kukhonnye_moyki/KM19000421_1898.html", "name": "The normal one", "price": 72856}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/parogeneratory/110291_1898.html", "name": "Товарищество с ограниченной ответственностью \"Oxen\"", "price": 207927}
+{"url": "https://omarket.kz/catalog/ecc_stroitelstvo_remont/ecc_santehnika/smesiteli/KM101912109_0.html", "name": "The normal one", "price": 99951}
+{"url": "https://omarket.kz/catalog/ecc_tovary_dlya_doma_i_dachi/ecc_sadovaya_technika/Dvigateli-dlya-sadovoj-tehniki/kombidvigatel-stihl-km-94-rc-e-09-kvt-benzinovyy.html", "name": "Товарищество с ограниченной ответственностью \"Арзу-ПВ\"", "price": 355530}
+{"url": "https://omarket.kz/catalog/ecc_avtotovary/ecc_elektropitanie/akkumulyatory/KM100149011_0.html", "name": "The normal one", "price": 148656}
+{"url": "https://omarket.kz/catalog/ecc_bitovaya_tehnika/ecc_malaya_tehnika_dlya_doma/parogeneratory/15132530_10677093.html", "name": "ASSEL", "price": 84107}
